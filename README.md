@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Daniel Matunoshita Status](https://github-readme-stats.vercel.app/api?username=dandanmatunoshita&show_icons=true&theme=dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandanmatunoshita&layout=compact&theme=dark&locale=pt-br)
