@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Daniel Matunoshita Status](https://github-readme-stats.vercel.app/api?username=dandanmatunoshita&show_icons=true&theme=dark&locale=pt-br)
